@@ -1,0 +1,7 @@
+audio2srt.py -i "Short_clipnew.wav -o Short_clipnew.srt -- -lm C:\Python27\Lib\site-packages\pocketsphinx\model\en-us\en-us.lm.bin -hmm C:\Python27\Lib\site-packages\pocketsphinx\model\en-us\en-us -dict C:\sphinx\pocketsphinx\model\en-us\cmudict-en-us.dict
+
+
+https://simpleisbetterthancomplex.com/tutorial/2016/08/01/how-to-upload-files-with-django.html
+
+python manage.py migrate
+python manage.py runserver
